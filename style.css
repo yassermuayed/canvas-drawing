@@ -1,13 +1,5 @@
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  background-color: green;
-}
-
-#canvas {
-  border: black solid 5px;
+#log {
+  height: 200px;
+  width: 300px;
+  overflow: scroll;
 }
